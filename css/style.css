@@ -1,0 +1,49 @@
+.bg-black {
+	color: #000d33;
+	font-family: Engravers MT;
+}
+
+img{
+	width: 100%;
+	height:100%;
+}
+
+.display-4{
+	font-family: Engravers MT;
+	font-size:25px;
+	color: #4d79ff;
+}
+
+.bg-green{
+	font-family:Engravers MT;
+	font-size: 15px;
+	background-image: "images/b.jpg"
+	color: #4d4dff;
+	
+}
+
+.bg-red{
+	font-family:Engravers MT;
+	font-size: 15px;
+	
+}
+
+.bg-blue{
+	font-family:Engravers MT;
+	font-size: 25px;
+	color: #4d0099;
+}
+
+.font-div{
+	width: 30%;
+}
+
+/*
+///// responsive///// */
+
+@media only screen and (min-width: 1198px){
+	.font-div{
+		padding: 61px 0px!important;
+	}
+
+	}
